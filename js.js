@@ -1,4 +1,4 @@
-    const OPENROUTER_API_KEY = "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"; // TODO: ganti dengan kunci Anda
+    const OPENROUTER_API_KEY = "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"; // TODO: ganti dengan kunci Anda
     const MODEL_ID = "deepseek/deepseek-chat-v3-0324:free";
     const ENDPOINT = "https://openrouter.ai/api/v1/chat/completions";
 
